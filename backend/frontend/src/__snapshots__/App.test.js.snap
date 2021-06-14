@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App snapshot renders 1`] = `
+<div
+  className=" app"
+>
+  <link
+    crossOrigin="anonymous"
+    href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
+    integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
+    rel="stylesheet"
+  />
+  <div
+    className="container"
+  >
+    <button
+      aria-controls="menu--1"
+      aria-haspopup={true}
+      data-reach-menu-button=""
+      id="menu-button--menu"
+      onKeyDown={[Function]}
+      onMouseDown={[Function]}
+      type="button"
+    >
+      Menu 
+      <span
+        aria-hidden={true}
+      >
+        ▾
+      </span>
+    </button>
+    <span />
+    <h1>
+      <center>
+        iTUNES Search Engine
+      </center>
+    </h1>
+  </div>
+</div>
+`;
